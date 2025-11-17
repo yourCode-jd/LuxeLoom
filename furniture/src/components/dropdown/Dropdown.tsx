@@ -11,7 +11,7 @@ const Dropdown = ({ title, options = [] }) => {
       {/* Dropdown Button */}
       <button
         onClick={toggleDropdown}
-        className="inline-flex text-sm justify-center items-center w-full leading-normal border-l border-gray-200 pl-3 text-black"
+        className="inline-flex text-sm justify-center items-center w-full leading-normal border-l border-gray-200 pl-2 sm:pl-3 text-black"
         aria-haspopup="true"
         aria-expanded={isOpen}
       >
