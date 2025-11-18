@@ -8,7 +8,7 @@ Designer furniture that merges artisanal texture with minimalist, high-end silho
 
 ## 🚀 Github Demo
 
-[View Here](https://yourcode-jd.github.io/Furniture_01/)
+[View Here](https://yourcode-jd.github.io/LuxeLoom/)
 
 ---
 
